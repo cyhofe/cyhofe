@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyhofe
 - 👀 I’m interested in Bioinformatics, 
-- 🌱 I’m currently learning about metagenomics as part of my PhD.
+- 🌱 As part of my PhD, I am currently working on metagenomics.
 
 
 <!---
